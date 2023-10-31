@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bas van Geest</h1>
-<h3 align="center">A passionate computer science student in Amsterdam</h3>
+<h3 align="center">A passionate computer science student from Amsterdam</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
